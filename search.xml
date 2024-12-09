@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/12/03/hello-world/"/>
+      <url>/2024/12/03/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>如何安装steam</title>
+      <link href="/2024/08/08/2024/"/>
+      <url>/2024/08/08/2024/</url>
+      
+        <content type="html"><![CDATA[<h2 id="下载steam"><a href="#下载steam" class="headerlink" title="下载steam"></a>下载steam</h2><p>首先访问<a href="https://store.steampowered.com/">steam</a>官网,点击安装Steam<br><img src="https://s2.loli.net/2024/08/09/EXjcwifaUC21vtR.png" alt="steam官网界面" title="steam官网界面"><br>当然steam官网有时候会打不开，开个加速器就好了<br>点击之后，再点击蓝色方框的安装Steam<br><img src="https://s2.loli.net/2024/08/09/qUrB3Xz9J8V1LpR.png" alt="steam下载界面" title="steam下载界面"></p><h2 id="安装steam"><a href="#安装steam" class="headerlink" title="安装steam"></a>安装steam</h2><p>下载完后双击名为SteamSetup.exe的文件，点击下一步选择简体中文，再点击下一步，点安装，注意不要将steam安装在C盘，否则游戏下多后电脑系统会很卡</p><h2 id="创建账号"><a href="#创建账号" class="headerlink" title="创建账号"></a>创建账号</h2><p>安装完后运行steam,点击创建免费账户<br><img src="https://s2.loli.net/2024/08/09/gsBrHafibSPpt7v.png" alt="steam创建账号界面" title="steam创建账号界面"><br>在电子邮件地址的栏框填上你的邮箱，没有邮箱的可以填上“你自己的QQ号+qq.com”这就是你的qq邮箱，在确认您的电子邮件地址的栏框内再填一次您的邮箱，请不要直接填确认，否则无法注册<br>注意，在注册的时候请不要开着加速器否则有可能人机验证一直过不去<br>注册好后登录的时候不要填你的邮箱地址，直接填你刚才注册的时候设置的账号名称和密码</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
